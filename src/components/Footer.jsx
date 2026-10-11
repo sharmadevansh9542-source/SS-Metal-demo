@@ -52,7 +52,7 @@ export default function Footer() {
           <div>
             <h4 className="footer-heading">Factory & Contact</h4>
             <div className="footer-contact-item">
-              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style={{ flexShrink: 0, marginTop: 4, color: "#f59e0b" }}>
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style={{ flexShrink: 0, marginTop: 4, color: "#FFC400" }}>
                 <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 010-5 2.5 2.5 0 010 5z"/>
               </svg>
               <div>
@@ -61,7 +61,7 @@ export default function Footer() {
               </div>
             </div>
             <div className="footer-contact-item">
-              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style={{ flexShrink: 0, marginTop: 4, color: "#f59e0b" }}>
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style={{ flexShrink: 0, marginTop: 4, color: "#FFC400" }}>
                 <path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24c1.12.37 2.33.57 3.57.57a1 1 0 011 1V20a1 1 0 01-1 1C10.61 21 3 13.39 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.57 3.57a1 1 0 01-.25 1.02l-2.2 2.2z"/>
               </svg>
               <div>
@@ -70,7 +70,7 @@ export default function Footer() {
               </div>
             </div>
             <div className="footer-contact-item">
-              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style={{ flexShrink: 0, marginTop: 4, color: "#f59e0b" }}>
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style={{ flexShrink: 0, marginTop: 4, color: "#FFC400" }}>
                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
               </svg>
               <div>

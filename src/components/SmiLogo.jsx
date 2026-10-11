@@ -10,36 +10,36 @@ export default function SmiLogo({ className = "", light = false }) {
       >
         <defs>
           <linearGradient id="smiTeal" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stopColor="#0284c7" />
-            <stop offset="50%" stopColor="#0891b2" />
-            <stop offset="100%" stopColor="#0d9488" />
+            <stop offset="0%" stopColor="#1A4B96" />
+            <stop offset="50%" stopColor="#16468D" />
+            <stop offset="100%" stopColor="#123A7A" />
           </linearGradient>
         </defs>
         {/* S */}
-        <path
+        {/* <path 
           d="M26 14 C16 11 8 16 8 23 C8 32 28 29 28 39 C28 46 19 49 10 46"
           stroke="url(#smiTeal)"
           strokeWidth="6"
           strokeLinecap="round"
           strokeLinejoin="round"
-        />
+        />*/}
         {/* M */}
-        <path
+        {/* <path 
           d="M38 46 V14 L52 35 L66 14 V46"
           stroke="url(#smiTeal)"
           strokeWidth="6"
           strokeLinecap="round"
           strokeLinejoin="round"
-        />
+        />*/}
         {/* I */}
-        <path
+        {/* <path 
           d="M78 14 V46"
           stroke="url(#smiTeal)"
           strokeWidth="6"
           strokeLinecap="round"
-        />
+        />*/}
         {/* Dot */}
-        <circle cx="90" cy="16" r="3.5" fill="#f59e0b" />
+        {/* <circle cx="90" cy="16" r="3.5" fill="#FFC400" />*/} 
       </svg>
       <div className="brand-text">
         <span className={`brand-title ${light ? "brand-title-light" : ""}`}>

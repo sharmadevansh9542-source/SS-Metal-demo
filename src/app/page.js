@@ -159,7 +159,7 @@ export default function HomePage() {
                 </p>
               </div>
 
-              <h4 style={{ fontSize: "1rem", color: "#0a2540", marginTop: 14 }}>Steel Grades Manufactured &amp; Stocked:</h4>
+              <h4 style={{ fontSize: "1rem", color: "#123A7A", marginTop: 14 }}>Steel Grades Manufactured &amp; Stocked:</h4>
               <div className="grades-pill-group">
                 <span className="grade-badge">Grade JSLU</span>
                 <span className="grade-badge">Grade J4</span>

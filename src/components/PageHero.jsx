@@ -22,7 +22,7 @@ export default function PageHero({
       <div
         className="hero-image-layer"
         style={{
-          backgroundImage: `linear-gradient(90deg, #071d36 0%, rgba(7, 29, 54, 0.95) 42%, rgba(10, 37, 69, 0.76) 68%, rgba(10, 37, 69, 0.2) 100%), url('${image}')`
+          backgroundImage: `linear-gradient(90deg, #08275D 0%, rgba(8, 39, 93, 0.95) 42%, rgba(18, 58, 122, 0.76) 68%, rgba(18, 58, 122, 0.2) 100%), url('${image}')`
         }}
       ></div>
 
